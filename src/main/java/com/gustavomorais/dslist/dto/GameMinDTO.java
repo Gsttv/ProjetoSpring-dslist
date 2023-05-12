@@ -6,6 +6,7 @@ import jakarta.persistence.GeneratedValue;
 import jakarta.persistence.GenerationType;
 import jakarta.persistence.Id;
 
+//Versao fo Games reduzida, apenas com 5 dados
 public class GameMinDTO {
 
     private Long id;
